@@ -1,10 +1,4 @@
-import {
-	StyleSheet,
-	Text,
-	View,
-	SafeAreaView,
-	KeyboardAvoidingView,
-} from "react-native";
+import { StyleSheet, Text, View, SafeAreaView } from "react-native";
 import React from "react";
 import tw from "tailwind-react-native-classnames";
 import { GooglePlacesAutocomplete } from "react-native-google-places-autocomplete";

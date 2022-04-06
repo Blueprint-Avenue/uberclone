@@ -23,12 +23,6 @@ const data = [
 		destination: "Target Pkwy N",
 	},
 	{
-		id: "456",
-		icon: "briefcase",
-		location: "Work",
-		destination: "Target Pkwy N",
-	},
-	{
 		id: "123",
 		icon: "home",
 		location: "Home",
